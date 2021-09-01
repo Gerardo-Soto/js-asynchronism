@@ -1,0 +1,19 @@
+{
+  "name": "js-asynchronism",
+  "version": "1.0.0",
+  "description": "Asynchonism with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerardo-Soto/js-asynchronism.git"
+  },
+  "author": "gerardo.8.soto@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gerardo-Soto/js-asynchronism/issues"
+  },
+  "homepage": "https://github.com/Gerardo-Soto/js-asynchronism#readme"
+}
