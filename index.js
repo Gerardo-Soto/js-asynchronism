@@ -1,3 +1,1 @@
-//test
-
-console.log('Hello, world!');
+// index.js
