@@ -1,11 +1,12 @@
 {
   "name": "js-asynchronism",
   "version": "1.0.0",
-  "description": "Asynchonism with JS",
+  "description": "Asynchronism with JS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Gerardo-Soto/js-asynchronism/issues"
   },
-  "homepage": "https://github.com/Gerardo-Soto/js-asynchronism#readme"
+  "homepage": "https://github.com/Gerardo-Soto/js-asynchronism#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
